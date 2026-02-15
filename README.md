@@ -10,7 +10,7 @@ Eco-Label is an open-source platform that helps users understand what’s really
 
 # Tech Stack
 Frontend
- - Dart/Flutter
+ - Reactjs
 
 Backend
  - Go/Gin
